@@ -1,2 +1,2 @@
-# week 1
+# output
 ![](./output.png)
